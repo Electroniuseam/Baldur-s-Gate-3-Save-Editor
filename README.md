@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Baldur-s-Gate-3-Save-Editor` · Updated: 2026-10-07
+`Baldur-s-Gate-3-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `baldurs-gate-3` `save-editor` `crpg` `rpg` `steam`
